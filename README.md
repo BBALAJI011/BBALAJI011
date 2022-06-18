@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji B</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bbalaji011&label=Profile%20views&color=0e75b6&style=flat" alt="bbalaji011" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics in Edubridge**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **balajiit2501@gmail.com**
 
